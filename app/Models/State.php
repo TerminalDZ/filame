@@ -26,3 +26,5 @@ class State extends Model
         return $this->hasMany(City::class);
     }
 }
+
+
